@@ -7,6 +7,8 @@
     Created May 2022 by Andy Hua
 
     Game Instructions:
+        Love2D is required to play, drag and drop this entire folder
+            into the Love2D client.
         Movement - Arrow Keys
         Next Dialogue - 'A' Key (Only in the Castle)
             Please keep clicking 'A' in the castle or else the text will overlap in later portions of the game.
