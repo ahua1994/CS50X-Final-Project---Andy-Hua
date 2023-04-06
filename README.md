@@ -2,6 +2,9 @@
 
 #### Video Demo: https://www.youtube.com/watch?v=zjV3ulOi0oI
 
+#### Gif:
+![Gif](https://github.com/ahua1994/CS50X-Final-Project---Andy-Hua/blob/master/CS50-Final-Project-2022.gif)
+
 #### Information:
 
     Created May 2022 by Andy Hua
